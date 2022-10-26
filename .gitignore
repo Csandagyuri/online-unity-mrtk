@@ -88,3 +88,7 @@ Nuget.config*
 !/Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/DotNetAdapter.csproj
 Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/.bin/
 Assets/MixedRealityToolkit.Providers/WindowsMixedReality/Shared/DotNetAdapter/.obj/
+
+Basic*Mixed*Reality_Data/sharedassets0.assets
+Basic*Mixed*Reality_Data/sharedassets0.assets.resS
+Basic*Mixed*Reality_Data/sharedassets0.resource
